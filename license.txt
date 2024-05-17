@@ -1,0 +1,67 @@
+# Book Images:
+
+- 1st image:
+	Name: Book1.jpg
+	Author: zlatko_plamenov
+	Source: <a href="https://www.freepik.com/free-psd/realistic-book-cover-presentation_1016369.htm#fromView=search&page=1&position=4&uuid=eee8cc5d-2ba4-4bef-847a-3a0f582e77da">Image by zlatko_plamenov on Freepik</a>
+
+- 2nd image:
+	Name:Book2.jpg
+	Author: Vectonauta
+	Source:<a href="https://www.freepik.com/free-psd/book-hardcover-mockup_10698307.htm#fromView=search&page=1&position=2&uuid=eee8cc5d-2ba4-4bef-847a-3a0f582e77da">Image by Vectonauta on Freepik</a>
+
+- 3rd image:
+	Name:Book3.jpg
+	Author: zlatko_plamenov
+	Source: <a href="https://www.freepik.com/free-psd/realistic-book-cover-presentation_1016368.htm#fromView=search&page=1&position=12&uuid=eee8cc5d-2ba4-4bef-847a-3a0f582e77da">Image by zlatko_plamenov on Freepik</a>
+
+- 4th image:
+	Name:Book4.jpg
+	Author: freepik
+	Source: <a href="https://www.freepik.com/free-vector/professional-business-book-cover_28912202.htm#fromView=search&page=1&position=36&uuid=6378424f-2e11-4354-9d47-d8f1d29434de">Image by freepik</a>
+
+- 5th image:
+	Name:Book5.jpg
+	Author: pch.vector
+	Source: <a href="https://www.freepik.com/free-vector/two-tourists-pitching-tent-meadow-flyer-template_13146092.htm#from_view=detail_alsolike">Image by pch.vector on Freepik</a>
+
+
+- 6th image:
+	Name:Book6.jpg
+	Author: timmdesign
+	Source: <a href="https://www.freepik.com/free-psd/book-cover-blue-background-mock-up_1163457.htm#fromView=search&page=1&position=51&uuid=6378424f-2e11-4354-9d47-d8f1d29434de">Image by timmdesign on Freepik</a>
+
+
+- 7th image:
+	Name:Book7.jpg
+	Author: freepik
+	Source: <a href="https://www.freepik.com/free-psd/environment-poster-template_12706175.htm#from_view=detail_alsolike">Image by freepik</a>
+
+- 8th image:
+	Name:Book8.jpg
+	Author: freepik
+	Source: <a href="https://www.freepik.com/free-vector/abstract-elegant-winter-book-cover_11734660.htm#fromView=search&page=1&position=0&uuid=c9f2a031-3d43-4233-a6aa-88abf0fff397">Image by freepik</a>
+
+- 9th image:
+	Name:Book9.jpg
+	Author: kjpargeter
+	Source: <a href="https://www.freepik.com/free-vector/brochure-cover-with-geometric-shapes_1081019.htm#fromView=search&page=1&position=2&uuid=c9f2a031-3d43-4233-a6aa-88abf0fff397">Image by kjpargeter on Freepik</a>
+
+- 10th image:
+	Name:Book10.jpg
+	Author: freepik
+	Source: <a href="https://www.freepik.com/free-psd/vertical-flyer-wildlife-environment-protection_14309551.htm#fromView=search&page=1&position=8&uuid=c9f2a031-3d43-4233-a6aa-88abf0fff397">Image by freepik</a>
+
+- 11th image:
+	Name:Book11.jpg
+	Author: freepik
+	Source: <a href="https://www.freepik.com/free-psd/world-forest-day-poster-template_13164157.htm#fromView=search&page=1&position=9&uuid=c9f2a031-3d43-4233-a6aa-88abf0fff397">Image by freepik</a>
+
+- 12th image:
+	Name:Book12.jpg
+	Author: hasaka
+	Source: <a href="https://www.freepik.com/free-vector/geometric-business-flyer_1163736.htm#fromView=search&page=1&position=14&uuid=c9f2a031-3d43-4233-a6aa-88abf0fff397">Image by hasaka on Freepik</a>
+
+
+
+
